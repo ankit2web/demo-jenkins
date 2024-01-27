@@ -1,1 +1,1 @@
-# demo-jenkins updated
+# Jenkins updated for Poll SCM
